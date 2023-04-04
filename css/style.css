@@ -1,0 +1,36 @@
+h1{background-image: url(../assets/sobre-background.jpg) ;
+padding: 20px}
+h2{font-family: sans-serif;
+border-bottom: 4px solid #333;
+margin-top: 50px;}
+p{padding: 0 45px;
+text-indent: 20px;
+}
+body{font-family:"lucida sans unicode"
+color:#333;
+margin-left:5px;
+margin-right:5px;
+width:940px}
+     /*line heigth tamanho altura de cada linha*/
+     /* lette-spacing tamanho do espaco entre cada letra*/
+     /*word-spacing tamanho espaco entre cada palavra*/
+/*text-align alinhar o texto */
+
+/*padding com 3 valores:primeiron acima, segundo lados, terceiro abaixo.  
+padding com 2 valores 30px 200px; o primeiro numero se refere acima e abaixo' o segundo numero refere a esquerda e direita
+usando 4 valores 1 acima 2 direita 3 embaixo 4 esquerda*/
+ /* 0 auto:navegador decide o tamanho da margem}
+body{font-family: "lucida sans unicode" "lucida grande" sans-serif;
+color: #333;*/
+figure img{width: 800px;
+     height: 500px;}
+figure{background-color: rgb(175, 230, 241);
+border: 1px solid #ccc;
+text-align: center;
+padding: 15px;
+margin: 30px;}
+figcaption{font-style: italic;
+color:#666666;
+margin-top: 20px;}
+/*border:5px solid red
+dashed linha tracejada dotted linha pontilhada*/
