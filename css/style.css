@@ -6,11 +6,38 @@ margin-top: 50px;}
 p{padding: 0 45px;
 text-indent: 20px;
 }
-body{font-family:"lucida sans unicode"
+body{font-family:"lucida sans unicode";
 color:#333;
 margin-left:5px;
 margin-right:5px;
 width:940px}
+#historia{color: aqua;
+text-align: center;}
+#centro-distribuicao{
+     margin-left: auto;
+     margin-right: auto;
+     width: 550px;
+}
+#centro-distribuicao img{width: 500px;
+height: 220px;}
+#footer{
+     color: #67e30e;
+     margin: 30px 0;
+     padding: 30px 0;
+}
+#footer img{
+     margin-right: 30px;
+     vertical-align: middle;
+     width: 94px;
+}
+#familia-takeshi{
+     float:right;
+     margin:0 0 10px 10px;
+}
+#familia-takeshi img{
+     width: 330px;
+     height: 180px;
+
      /*line heigth tamanho altura de cada linha*/
      /* lette-spacing tamanho do espaco entre cada letra*/
      /*word-spacing tamanho espaco entre cada palavra*/
@@ -22,8 +49,7 @@ usando 4 valores 1 acima 2 direita 3 embaixo 4 esquerda*/
  /* 0 auto:navegador decide o tamanho da margem}
 body{font-family: "lucida sans unicode" "lucida grande" sans-serif;
 color: #333;*/
-figure img{width: 800px;
-     height: 500px;}
+
 figure{background-color: rgb(175, 230, 241);
 border: 1px solid #ccc;
 text-align: center;
